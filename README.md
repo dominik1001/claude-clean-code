@@ -11,15 +11,15 @@ A Claude Code marketplace with opinionated plugins to write Clean Code
 ### Require for your project/team
 
 ```
-  "extraKnownMarketplaces": {
-    "claude-clean-code": {
-      "source": {
-        "source": "github",
-        "repo": "dominik1001/claude-clean-code"
-      }
+"extraKnownMarketplaces": {
+  "claude-clean-code": {
+    "source": {
+      "source": "github",
+      "repo": "dominik1001/claude-clean-code"
     }
-  },
-  "enabledPlugins": {
-    "clean-code@claude-clean-code": true
   }
+},
+"enabledPlugins": {
+  "clean-code@claude-clean-code": true
+}
 ```
