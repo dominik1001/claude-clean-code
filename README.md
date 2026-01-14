@@ -2,10 +2,10 @@
 
 A Claude Code marketplace with opinionated plugins to write Clean Code
 
-## Available Skills
+## Skills
 - *Supabase*: Write clean code using supabase-js
 
-## Available Commands
+## Commands
 - `/audit`: Audit your code for potential issues
 - `/cleanup`: Analyze and remove dead code
 
