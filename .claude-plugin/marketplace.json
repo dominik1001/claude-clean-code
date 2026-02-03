@@ -9,7 +9,7 @@
 			"name": "clean-code",
 			"source": "./plugins/clean-code",
 			"description": "A plugin to create clean code with Claude Code",
-			"version": "0.0.2"
+			"version": "0.0.3"
 		}
 	]
 }

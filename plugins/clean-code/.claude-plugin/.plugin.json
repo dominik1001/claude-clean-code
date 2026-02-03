@@ -1,7 +1,7 @@
 {
 	"name": "clean-code",
 	"description": "A plugin to create clean code with Claude Code",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"author": {
 		"name": "Dominik Grusemann",
 		"email": "dominik.grusemann@gmail.com"
