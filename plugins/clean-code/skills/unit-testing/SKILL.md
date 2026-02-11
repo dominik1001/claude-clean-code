@@ -1,6 +1,6 @@
 ---
 name: unit-testing
-description: Best practices for writing unit tests in TypeScript/JavaScript based on Roy Osherove's "The Art of Unit Testing". Use when writing, reviewing, or refactoring unit tests, when setting up test structure and naming conventions, when working with mocks/stubs/fakes, or when improving test quality (trustworthiness, maintainability, readability).
+description: Best practices for writing unit tests in TypeScript/JavaScript. Use when writing, reviewing, or refactoring unit tests, when setting up test structure and naming conventions, when working with mocks/stubs/fakes, or when improving test quality (trustworthiness, maintainability, readability).
 ---
 
 # Unit Testing Best Practices
